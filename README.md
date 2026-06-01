@@ -84,7 +84,7 @@
     <td width="50%">
       <h3 align="center">🌿 Plant Webpage</h3>
       <p align="center">
-        <a href="https://sarishan3.github.io/PlantWebpage/" target="_blank">
+        <a href="https://sarishan3.github.io/PlantsWebpage/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </p>
